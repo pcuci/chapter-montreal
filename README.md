@@ -1,3 +1,3 @@
-# WizardAmigos Nashville Chapter
+# WizardAmigos Montreal Chapter
 
-http://wizardamigos.com/chapter-nashville/
+http://wizardamigos.com/chapter-montreal/

@@ -1,7 +1,7 @@
 {
-  "name": "chapter-nashville",
+  "name": "chapter-montreal",
   "version": "0.0.0",
-  "description": "wizardamigos chapter nashville",
+  "description": "wizardamigos chapter montreal",
   "private": true,
   "scripts": {
     "start": "budo index.js:bundle.js --open --live --ssl",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizardamigos/chapter-nashville.git"
+    "url": "git+https://github.com/wizardamigos/chapter-montreal.git"
   },
   "keywords": [
     "wizardamigos",
     "chapter",
-    "nashville"
+    "montreal"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wizardamigos/chapter-nashville/issues"
+    "url": "https://github.com/wizardamigos/chapter-montreal/issues"
   },
-  "homepage": "https://github.com/wizardamigos/chapter-nashville#readme",
+  "homepage": "https://github.com/wizardamigos/chapter-montreal#readme",
   "devDependencies": {
     "budo": "^11.3.2"
   },

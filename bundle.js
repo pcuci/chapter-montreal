@@ -17,7 +17,7 @@ const theme = { colors }
 // <script type="text/javascript" src="https://embed.typeform.com/embed.js"></script>
 //     <iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://ninabreznik.typeform.com/to/RnddyU"></iframe>
 const data = {
-  title: 'Nashville',
+  title: 'Montreal',
   logo: 'assets/wizard3.png',
   home: 'http://wizardamigos.com/',
   tabs: [{
